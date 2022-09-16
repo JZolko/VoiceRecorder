@@ -6,6 +6,9 @@
         <entry key="..\:/Users/Jake/AndroidStudioProjects/VoiceRecorder/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.373" />
         <entry key="..\:/Users/Jake/AndroidStudioProjects/VoiceRecorder/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1605" />
         <entry key="..\:/Users/Jake/AndroidStudioProjects/VoiceRecorder/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/Jake/AndroidStudioProjects/VoiceRecorder/app/src/main/res/layout/login_screen.xml" value="0.5583333333333333" />
+        <entry key="..\:/Users/Jake/AndroidStudioProjects/VoiceRecorder/app/src/main/res/layout/profiles.xml" value="0.5583333333333333" />
+        <entry key="..\:/Users/Jake/AndroidStudioProjects/VoiceRecorder/app/src/main/res/layout/signup.xml" value="0.25" />
       </map>
     </option>
   </component>

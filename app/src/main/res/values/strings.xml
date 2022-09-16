@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">VoiceRecorder</string>
+    <string name="buttonPlay">Play</string>
+    <string name="buttonStop">Stop</string>
+    <string name="buttonRecord">Record</string>
+    <string name="buttonPause">Pause</string>
+    <string name="buttonRecording">Recording</string>
+    <string name="buttonPlaying">Playing</string>
+    <string name="buttonPaused">Paused</string>
+    <string name="buttonStopped">Stopped</string>
+
+
 </resources>
